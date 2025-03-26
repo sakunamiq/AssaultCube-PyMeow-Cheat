@@ -60,7 +60,7 @@ Follow these steps to run the AssaultCube Cheat:
     *   **Python 3.x:** Make sure you have Python 3.x installed on your system. You can download it from [python.org](https://www.python.org).
     *   **PyMeow Library:** Install PyMeow using pip:
         ```bash
-        pip install py-meow
+        pip install pyMeow-1.73.42.zip
         ```
     *   **Colorama Library:** Install Colorama for colored console output (optional but recommended):
         ```bash
@@ -80,9 +80,9 @@ Follow these steps to run the AssaultCube Cheat:
 
 ## 📦 Dependencies
 
-*   [**PyMeow**](https://github.com/EternalWraith/PyMeow): A Python library for creating game overlays and memory manipulation.
+*   [**PyMeow**](https://github.com/qb-0/pyMeow): A Python library for creating game overlays and memory manipulation.
     ```bash
-    pip install py-meow
+    pip install pyMeow-1.73.42.zip
     ```
 *   [**Colorama**](https://pypi.org/project/colorama/): For colored console output (optional).
     ```bash
@@ -93,18 +93,11 @@ Follow these steps to run the AssaultCube Cheat:
 
 **Use at Your Own Risk:**  Using cheats in multiplayer games can lead to account bans. This cheat is provided for educational and experimental purposes only. The author is not responsible for any bans or consequences resulting from using this software.
 
-**Anti-Cheat Detection:** Game developers actively work to detect and prevent cheating. This cheat may become detectable and stop working at any time.
 
 ## 👨‍💻 Credits
 
 *   **Author:** sakurai
-*   **PyMeow Library:** [EternalWraith](https://github.com/EternalWraith/PyMeow)
-*   **CppDeveloperRoadmap (for inspiration and resources):** [salmer](https://github.com/salmer/CppDeveloperRoadmap)
+*   **PyMeow Library:** [qb-0](https://github.com/qb-0/pyMeow)
 
-## 🖼️ Screenshots (Coming Soon)
-
-[Placeholder for screenshots of the cheat in action.  Consider adding screenshots later to visually showcase the features.]
-
----
 
 **Enjoy responsibly and have fun!** 😉
