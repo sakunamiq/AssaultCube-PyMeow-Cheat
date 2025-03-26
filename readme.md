@@ -96,7 +96,7 @@ Follow these steps to run the AssaultCube Cheat:
 
 ## 👨‍💻 Credits
 
-*   **Author:** [sakurai](t.me/sakuraixxq)
+*   **Author:** [sakurai](https://t.me/sakuraixxq)
 *   **PyMeow Library:** [qb-0](https://github.com/qb-0/pyMeow)
 
 
